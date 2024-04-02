@@ -1,0 +1,2673 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180727_FIRE_bh-s-mobo-c/1532721374_-02280.jpg"
+        },
+        {
+            "id": 2,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180806_Holy_sp-s-mobo-c/1533588090_+02340.jpg"
+        },
+        {
+            "id": 3,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_Dehesa_lp-n-mobo/1564362721_+00900.jpg"
+        },
+        {
+            "id": 4,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180813_FIRE_mg-w-mobo-c/1534196980_-00420.jpg"
+        },
+        {
+            "id": 5,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180504_FIRE_bh-n-mobo-c/1525468210_-02220.jpg"
+        },
+        {
+            "id": 6,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170519_FIRE_rm-w-mobo-c/1495224366_-01920.jpg"
+        },
+        {
+            "id": 7,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171021_FIRE_pi-e-mobo-c/1508617265_+01140.jpg"
+        },
+        {
+            "id": 8,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190925_FIRE_wc-s-mobo-c/1569442162_-00240.jpg"
+        },
+        {
+            "id": 9,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180813_FIRE_mg-w-mobo-c/1534195840_-01560.jpg"
+        },
+        {
+            "id": 10,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191003_FIRE_rm-w-mobo-c/1570125066_-00960.jpg"
+        },
+        {
+            "id": 11,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_mg-w-mobo-c/1533844360_-01080.jpg"
+        },
+        {
+            "id": 12,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_lp-s-mobo-c/1570388346_+02281.jpg"
+        },
+        {
+            "id": 13,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180606_FIRE_pi-e-mobo-c/1528302605_-01440.jpg"
+        },
+        {
+            "id": 14,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170711_FIRE_sm-n-mobo-c/1499805507_-00960.jpg"
+        },
+        {
+            "id": 15,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191003_FIRE_smer-tcs9-mobo-c/1570124877_-01140.jpg"
+        },
+        {
+            "id": 16,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191001_FIRE_om-e-mobo-c/1569955118_+02400.jpg"
+        },
+        {
+            "id": 17,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210110_Borderfire_lp-s-mobo-c/1610304725_-00361.jpg"
+        },
+        {
+            "id": 18,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20201216_ChaparralFire_pi-w-mobo-c/1608153549_-00900.jpg"
+        },
+        {
+            "id": 19,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210711_FIRE_wc-e-mobo-c/1626026514_+00360.jpg"
+        },
+        {
+            "id": 20,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_pi-w-mobo-c/1495304469_+00000.jpg"
+        },
+        {
+            "id": 21,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180517_FIRE_smer-tcs10-mobo-c/1526593199_-00600.jpg"
+        },
+        {
+            "id": 22,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200306_FIRE_mlo-n-mobo-c/1583515039_-00840.jpg"
+        },
+        {
+            "id": 23,
+            "width": 1280,
+            "height": 960,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190610_Pauma_bh-w-mobo-m/1560195797_-02323.jpg"
+        },
+        {
+            "id": 24,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_pi-s-mobo-c/1495302427_+00600.jpg"
+        },
+        {
+            "id": 25,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_om-n-mobo-c/1570386455_+02280.jpg"
+        },
+        {
+            "id": 26,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180719_Skyline_sp-n-mobo-c/1532040746_+01080.jpg"
+        },
+        {
+            "id": 27,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191003_FIRE_om-s-mobo-c/1570141960_-00481.jpg"
+        },
+        {
+            "id": 28,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200615_Rainbow_rm-e-mobo-c/1592251922_-01560.jpg"
+        },
+        {
+            "id": 29,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200521_FIRE_om-w-mobo-c/1590098561_-00720.jpg"
+        },
+        {
+            "id": 30,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171021_FIRE_pi-e-mobo-c/1508616545_+00420.jpg"
+        },
+        {
+            "id": 31,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170927_FIRE_smer-tcs9-mobo-c/1506546657_-02040.jpg"
+        },
+        {
+            "id": 32,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200226_FIRE_rm-e-mobo-c/1582742162_-00420.jpg"
+        },
+        {
+            "id": 33,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_lo-s-mobo-c/1570386563_+00840.jpg"
+        },
+        {
+            "id": 34,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180606_FIRE_lo-s-mobo-c/1528305263_+00780.jpg"
+        },
+        {
+            "id": 35,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200306_FIRE_ml-s-mobo-c/1583514255_-01620.jpg"
+        },
+        {
+            "id": 36,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_sm-n-mobo-c/1569363030_+00840.jpg"
+        },
+        {
+            "id": 37,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210204_FIRE_tp-s-mobo-c/1612467733_+01980.jpg"
+        },
+        {
+            "id": 38,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_om-n-mobo-c/1570385375_+01200.jpg"
+        },
+        {
+            "id": 39,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200822_BrattonFire_lp-s-mobo-c/1598124845_-01320.jpg"
+        },
+        {
+            "id": 40,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200601_WILDLAND-DRILLS_ml-s-mobo-c/1591044075_-00720.jpg"
+        },
+        {
+            "id": 41,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_SpringsFire_om-n-mobo-c/1596764375_+00300.jpg"
+        },
+        {
+            "id": 42,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_Dehesa_lp-n-mobo/1564363861_+02040.jpg"
+        },
+        {
+            "id": 43,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180813_FIRE_bh-s-mobo-c/1534198154_+00900.jpg"
+        },
+        {
+            "id": 44,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180706_West_lp-n-mobo-c/1530899341_-02340.jpg"
+        },
+        {
+            "id": 45,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180813_FIRE_bl-n-mobo-c/1534195129_-02100.jpg"
+        },
+        {
+            "id": 46,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180602_Alison_sp-s-mobo-c/1527969210_-00780.jpg"
+        },
+        {
+            "id": 47,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190915_FIRE_rm-n-mobo-c/1568583060_+00540.jpg"
+        },
+        {
+            "id": 48,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190803_OtaySouth_lp-s-mobo/1564867265_-02160.jpg"
+        },
+        {
+            "id": 49,
+            "width": 1280,
+            "height": 960,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190610_Pauma_bh-w-mobo-m/1560195917_-02203.jpg"
+        },
+        {
+            "id": 50,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190827_FIRE_so-w-mobo-c/1566928823_+01980.jpg"
+        },
+        {
+            "id": 51,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190825_FIRE_sm-w-mobo-c/1566768693_+00360.jpg"
+        },
+        {
+            "id": 52,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190814_FIRE_om-e-mobo-c/1565821117_+01440.jpg"
+        },
+        {
+            "id": 53,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20160722_FIRE_mw-e-mobo-c/1469225221_+02100.jpg"
+        },
+        {
+            "id": 54,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200829_inside-Mexico_cp-s-mobo-c/1598721536_-02280.jpg"
+        },
+        {
+            "id": 55,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170613_FIRE_hp-n-mobo-c/1497381085_+00840.jpg"
+        },
+        {
+            "id": 56,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200521_VEGMGMT_bm-s-mobo-c/1590078637_-02340.jpg"
+        },
+        {
+            "id": 57,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170711_FIRE_bl-s-mobo-c/1499808293_+02100.jpg"
+        },
+        {
+            "id": 58,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191001_FIRE_om-s-mobo-c/1569946359_-00420.jpg"
+        },
+        {
+            "id": 59,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_hp-s-mobo-c/1569364173_+01384.jpg"
+        },
+        {
+            "id": 60,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_lp-s-iqeye/1495304894_+00540.jpg"
+        },
+        {
+            "id": 61,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20201216_ChaparralFire_lp-w-mobo-c/1608155287_+00840.jpg"
+        },
+        {
+            "id": 62,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190716_FIRE_mg-n-mobo-c/1563309154_+01740.jpg"
+        },
+        {
+            "id": 63,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171026_FIRE_smer-tcs8-mobo-c/1509044455_-01620.jpg"
+        },
+        {
+            "id": 64,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180603_FIRE_smer-tcs9-mobo-c/1528056117_-01200.jpg"
+        },
+        {
+            "id": 65,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_pi-s-mobo-c/1495299847_-01980.jpg"
+        },
+        {
+            "id": 66,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180706_FIRE_sm-e-mobo-c/1530897929_+01020.jpg"
+        },
+        {
+            "id": 67,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_sm-n-mobo-c/1569360030_-02160.jpg"
+        },
+        {
+            "id": 68,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190620_FIRE_rm-w-mobo-c/1561066206_+00780.jpg"
+        },
+        {
+            "id": 69,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200205_FIRE_hp-w-mobo-c/1580928451_+01380.jpg"
+        },
+        {
+            "id": 70,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_lp-s-iqeye/1495302494_-01860.jpg"
+        },
+        {
+            "id": 71,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180727_FIRE_mg-w-mobo-c/1532725180_+01020.jpg"
+        },
+        {
+            "id": 72,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_FIRE_om-n-mobo-c/1564361735_-00660.jpg"
+        },
+        {
+            "id": 73,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_om-n-mobo-c/1570384175_+00000.jpg"
+        },
+        {
+            "id": 74,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200822_SloaneFire_lp-n-mobo-c/1598130241_+00360.jpg"
+        },
+        {
+            "id": 75,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200705_FIRE_wc-n-mobo-c/1593982278_-00840.jpg"
+        },
+        {
+            "id": 76,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190913_FIRE_lp-n-mobo-c/1568418421_-01321.jpg"
+        },
+        {
+            "id": 77,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_FIRE_om-n-mobo-c/1564364015_+01620.jpg"
+        },
+        {
+            "id": 78,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180706_FIRE_wc-e-mobo-c/1530900140_-01740.jpg"
+        },
+        {
+            "id": 79,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190915_FIRE_rm-n-mobo-c/1568584080_+01560.jpg"
+        },
+        {
+            "id": 80,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171021_FIRE_pi-e-mobo-c/1508617685_+01560.jpg"
+        },
+        {
+            "id": 81,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20201216_ChaparralFire_lp-w-mobo-c/1608154627_+00180.jpg"
+        },
+        {
+            "id": 82,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180806_Holy_sp-s-mobo-m/1533584491_-01260.jpg"
+        },
+        {
+            "id": 83,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_SpringsFire_sm-e-mobo-c/1596763229_-00902.jpg"
+        },
+        {
+            "id": 84,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200905_ValleyFire_sm-e-mobo-c/1599342509_+01140.jpg"
+        },
+        {
+            "id": 85,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200813_SkylineFire_sp-n-mobo-c/1597355546_-00540.jpg"
+        },
+        {
+            "id": 86,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171026_FIRE_smer-tcs8-mobo-c/1509045355_-00720.jpg"
+        },
+        {
+            "id": 87,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200823_OakFire_pi-e-mobo-c/1598216585_+00180.jpg"
+        },
+        {
+            "id": 88,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_bl-e-mobo-c/1533843891_-01680.jpg"
+        },
+        {
+            "id": 89,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_sm-n-mobo-c/1569360627_-01563.jpg"
+        },
+        {
+            "id": 90,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210113_Borderfire_mlo-s-mobo-c/1610571143_-00960.jpg"
+        },
+        {
+            "id": 91,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200822_BrattonFire_lp-s-mobo-c/1598124425_-01740.jpg"
+        },
+        {
+            "id": 92,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200905_ValleyFire_pi-w-mobo-c/1599342489_+01380.jpg"
+        },
+        {
+            "id": 93,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171021_FIRE_pi-e-mobo-c/1508614505_-01620.jpg"
+        },
+        {
+            "id": 94,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_FIRE_sp-n-mobo-c/1564344626_-00480.jpg"
+        },
+        {
+            "id": 95,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180517_FIRE_rm-n-mobo-c/1526592060_-01800.jpg"
+        },
+        {
+            "id": 96,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180602_FIRE_smer-tcs8-mobo-c/1527978835_+00600.jpg"
+        },
+        {
+            "id": 97,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180606_FIRE_pi-e-mobo-c/1528305485_+01440.jpg"
+        },
+        {
+            "id": 98,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190529_94Fire_lp-s-mobo-c/1559167325_-00060.jpg"
+        },
+        {
+            "id": 99,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_ml-w-mobo-c/1570384219_+00182.jpg"
+        },
+        {
+            "id": 100,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190922_FIRE_ml-w-mobo-c/1569182957_-00900.jpg"
+        },
+        {
+            "id": 101,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190801_Caliente_om-w-mobo/1564683282_-01919.jpg"
+        },
+        {
+            "id": 102,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_bh-s-mobo-c/1533844394_-01046.jpg"
+        },
+        {
+            "id": 103,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170722_FIRE_bm-n-mobo-c/1500762573_+01260.jpg"
+        },
+        {
+            "id": 104,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190826_FIRE_smer-tcs9-mobo-c/1566849057_-00060.jpg"
+        },
+        {
+            "id": 105,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180606_FIRE_lo-s-mobo-c/1528302623_-01860.jpg"
+        },
+        {
+            "id": 106,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180718_FIRE_syp-w-mobo-c/1531940929_+00360.jpg"
+        },
+        {
+            "id": 107,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190714_PinosSouth_pi-s-mobo-c/1563121627_-00960.jpg"
+        },
+        {
+            "id": 108,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190829_FIRE_bl-n-mobo-c/1567119289_-01020.jpg"
+        },
+        {
+            "id": 109,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200808_OliveFire_wc-e-mobo-c/1596910280_+01740.jpg"
+        },
+        {
+            "id": 110,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180827_Holyflareup_sp-e-mobo-c/1535382508_-00960.jpg"
+        },
+        {
+            "id": 111,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190813_FIRE_69bravo-e-mobo-c/1565729206_-01978.jpg"
+        },
+        {
+            "id": 112,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200812_LakeFire_dwpgm-n-mobo-c/1597270306_-01496.jpg"
+        },
+        {
+            "id": 113,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170807_FIRE_bh-n-mobo-c/1502139370_-01560.jpg"
+        },
+        {
+            "id": 114,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180614_Hope_wc-e-mobo-c/1528999820_-01140.jpg"
+        },
+        {
+            "id": 115,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171207_FIRE_bh-w-mobo-c/1512674416_-00180.jpg"
+        },
+        {
+            "id": 116,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190825_FIRE_sm-w-mobo-c/1566767133_-01200.jpg"
+        },
+        {
+            "id": 117,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180603_FIRE_smer-tcs9-mobo-c/1528058517_+01200.jpg"
+        },
+        {
+            "id": 118,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190803_OtaySouth_lp-s-mobo/1564869125_-00300.jpg"
+        },
+        {
+            "id": 119,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20201216_ChaparralFire_om-n-mobo-c/1608155735_+01260.jpg"
+        },
+        {
+            "id": 120,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200829_inside-Mexico_cp-s-mobo-c/1598724980_+01164.jpg"
+        },
+        {
+            "id": 121,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_wc-e-mobo-c/1569361880_-00480.jpg"
+        },
+        {
+            "id": 122,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191001_FIRE_om-s-mobo-c/1569945819_-00960.jpg"
+        },
+        {
+            "id": 123,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190805_FIRE_sp-e-mobo-c/1565042248_+02040.jpg"
+        },
+        {
+            "id": 124,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_lo-w-mobo-c/1569361405_-00783.jpg"
+        },
+        {
+            "id": 125,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200807_AppleFire-backfire-operation_hp-n-mobo-c/1596819866_+01381.jpg"
+        },
+        {
+            "id": 126,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200828_BorderFire_om-w-mobo-c/1598629601_+00280.jpg"
+        },
+        {
+            "id": 127,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_lp-n-mobo-c/1570384506_+00425.jpg"
+        },
+        {
+            "id": 128,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170711_FIRE_sm-n-mobo-c/1499807667_+01200.jpg"
+        },
+        {
+            "id": 129,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170625_FIRE_mg-s-iqeye/1498414998_-01080.jpg"
+        },
+        {
+            "id": 130,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_om-s-mobo-c/1570386279_+02394.jpg"
+        },
+        {
+            "id": 131,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170901_FIRE_om-s-mobo-c/1504301139_-02100.jpg"
+        },
+        {
+            "id": 132,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_mg-w-mobo-c/1533844120_-01320.jpg"
+        },
+        {
+            "id": 133,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200829_inside-Mexico_cp-s-mobo-c/1598723900_+00084.jpg"
+        },
+        {
+            "id": 134,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170625_FIRE_mg-s-iqeye/1498417098_+01020.jpg"
+        },
+        {
+            "id": 135,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170711_FIRE_bm-s-mobo-c/1499787277_-00120.jpg"
+        },
+        {
+            "id": 136,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_lp-s-iqeye/1495306214_+01860.jpg"
+        },
+        {
+            "id": 137,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200521_FIRE_om-w-mobo-c/1590100301_+01020.jpg"
+        },
+        {
+            "id": 138,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170711_FIRE_bl-s-mobo-c/1499806313_+00120.jpg"
+        },
+        {
+            "id": 139,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180602_Alison_sp-s-mobo-c/1527968790_-01200.jpg"
+        },
+        {
+            "id": 140,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20171207_FIRE_smer-tcs8-mobo-c/1512682255_+01080.jpg"
+        },
+        {
+            "id": 141,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210711_FIRE_wc-e-mobo-c/1626027174_+01020.jpg"
+        },
+        {
+            "id": 142,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170722_FIRE_bm-n-mobo-c/1500761073_-00240.jpg"
+        },
+        {
+            "id": 143,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191001_FIRE_rm-w-mobo-c/1569953526_-02220.jpg"
+        },
+        {
+            "id": 144,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191005_FIRE_bm-e-mobo-c/1570310735_+00480.jpg"
+        },
+        {
+            "id": 145,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190810_SantaFire_rm-w-mobo/1565467626_+01500.jpg"
+        },
+        {
+            "id": 146,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_lp-s-iqeye/1495302974_-01380.jpg"
+        },
+        {
+            "id": 147,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200521_VEGMGMT_wc-e-mobo-c/1590082940_+01980.jpg"
+        },
+        {
+            "id": 148,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200705_FIRE_wc-n-mobo-c/1593985458_+02340.jpg"
+        },
+        {
+            "id": 149,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200823_OakFire_pi-e-mobo-c/1598218265_+01860.jpg"
+        },
+        {
+            "id": 150,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190728_FIRE_om-n-mobo-c/1564360235_-02160.jpg"
+        },
+        {
+            "id": 151,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180806_FIRE_vo-w-mobo-c/1533575327_-01140.jpg"
+        },
+        {
+            "id": 152,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190714_MLOSouth_lo-s-mobo-c/1563132923_-02100.jpg"
+        },
+        {
+            "id": 153,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200601_WILDLAND-DRILLS_pi-e-mobo-c/1591042865_-01380.jpg"
+        },
+        {
+            "id": 154,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_BorderFire_om-e-mobo-c/1596727717_-01560.jpg"
+        },
+        {
+            "id": 155,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180723_FIRE_tp-e-mobo-c/1532381291_-01800.jpg"
+        },
+        {
+            "id": 156,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180517_FIRE_rm-n-mobo-c/1526594400_+00540.jpg"
+        },
+        {
+            "id": 157,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200831_FIRE_wc-n-mobo-c/1598901198.jpg"
+        },
+        {
+            "id": 158,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180605_FIRE_smer-tcs9-mobo-c/1528232337_+01080.jpg"
+        },
+        {
+            "id": 159,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180504_FIRE_rm-n-mobo-c/1525470360_+00240.jpg"
+        },
+        {
+            "id": 160,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_lp-n-mobo-c/1569362161_+00000.jpg"
+        },
+        {
+            "id": 161,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170713_FIRE_smer-tcs8-mobo-c/1499981575_+00540.jpg"
+        },
+        {
+            "id": 162,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180719_Skyline_sp-n-mobo-c/1532041046_+01380.jpg"
+        },
+        {
+            "id": 163,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20210204_FIRE_tp-s-mobo-c/1612466953_+01200.jpg"
+        },
+        {
+            "id": 164,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180727_FIRE_bh-s-mobo-c/1532721314_-02340.jpg"
+        },
+        {
+            "id": 165,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200202_FIRE_hp-w-mobo-c/1580666671_-01320.jpg"
+        },
+        {
+            "id": 166,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_wc-e-mobo-c/1569364160_+01800.jpg"
+        },
+        {
+            "id": 167,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180827_Holyflareup_sp-e-mobo-c/1535383048_-00420.jpg"
+        },
+        {
+            "id": 168,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180606_FIRE_pi-e-mobo-c/1528305185_+01140.jpg"
+        },
+        {
+            "id": 169,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20160722_FIRE_mg-s-iqeye/1469226378_-00120.jpg"
+        },
+        {
+            "id": 170,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190829_FIRE_rm-w-mobo-c/1567098906_-02100.jpg"
+        },
+        {
+            "id": 171,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180603_FIRE_bl-s-mobo-c/1528065233_-02160.jpg"
+        },
+        {
+            "id": 172,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180504_FIRE_smer-tcs8-mobo-c/1525471495_+01860.jpg"
+        },
+        {
+            "id": 173,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200829_inside-Mexico_om-e-mobo-c/1598725837_+02400.jpg"
+        },
+        {
+            "id": 174,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170722_FIRE_so-s-mobo-c/1500762081_+00840.jpg"
+        },
+        {
+            "id": 175,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191006_FIRE_lp-n-mobo-c/1570382641_-01440.jpg"
+        },
+        {
+            "id": 176,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200304_FIRE_rm-w-mobo-c/1583346486_+01440.jpg"
+        },
+        {
+            "id": 177,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_BorderFire_om-e-mobo-c/1596731377_+02100.jpg"
+        },
+        {
+            "id": 178,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200911_FIRE_pi-s-mobo-c/1599854647_+00900.jpg"
+        },
+        {
+            "id": 179,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200206_FIRE_ml-s-mobo-c/1581011595_+00480.jpg"
+        },
+        {
+            "id": 180,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190529_94Fire_lp-s-mobo-c/1559166485_-00900.jpg"
+        },
+        {
+            "id": 181,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190924_FIRE_hp-s-mobo-c/1569360389_-02400.jpg"
+        },
+        {
+            "id": 182,
+            "width": 1600,
+            "height": 1200,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170520_FIRE_lp-s-iqeye/1495304354_+00000.jpg"
+        },
+        {
+            "id": 183,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_BorderFire_om-e-mobo-c/1596729637_+00360.jpg"
+        },
+        {
+            "id": 184,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200806_SpringsFire_lp-w-mobo-c/1596764827_+00840.jpg"
+        },
+        {
+            "id": 185,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180919_FIRE_rm-e-mobo-c/1537393322_-02160.jpg"
+        },
+        {
+            "id": 186,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180910_FIRE_smer-tcs8-mobo-c/1536608395_-01680.jpg"
+        },
+        {
+            "id": 187,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20201216_ChaparralFire_pi-w-mobo-c/1608154509_+00060.jpg"
+        },
+        {
+            "id": 188,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190715_MLOSouth2_lo-s-mobo-c/1563222023_-00780.jpg"
+        },
+        {
+            "id": 189,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20191005_FIRE_bm-e-mobo-c/1570310435_+00180.jpg"
+        },
+        {
+            "id": 190,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_bh-s-mobo-c/1533845894_+00454.jpg"
+        },
+        {
+            "id": 191,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200601_WILDLAND-DRILLS_om-e-mobo-c/1591045777_+01020.jpg"
+        },
+        {
+            "id": 192,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170625_BBM_bm-n-mobo/1498418373_+01980.jpg"
+        },
+        {
+            "id": 193,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20190529_94Fire_lp-s-mobo-c/1559165465_-01920.jpg"
+        },
+        {
+            "id": 194,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200813_Ranch2Fire_wilson-e-mobo-c/1597354972_-01021.jpg"
+        },
+        {
+            "id": 195,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180728_FIRE_rm-w-mobo-c/1532815446_-00180.jpg"
+        },
+        {
+            "id": 196,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200808_OliveFire_wc-e-mobo-c/1596907220_-01320.jpg"
+        },
+        {
+            "id": 197,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180720_FIRE_syp-w-mobo-c/1532121049_-00540.jpg"
+        },
+        {
+            "id": 198,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180611_fallbrook_rm-w-mobo-c/1528755906_-01500.jpg"
+        },
+        {
+            "id": 199,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180603_FIRE_sm-n-mobo-c/1528075947_+00480.jpg"
+        },
+        {
+            "id": 200,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200618_FIRE_om-w-mobo-c/1592519621_+00660.jpg"
+        },
+        {
+            "id": 201,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20170927_FIRE_smer-tcs9-mobo-c/1506550857_+02160.jpg"
+        },
+        {
+            "id": 202,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180809_FIRE_bl-e-mobo-c/1533844311_-01260.jpg"
+        },
+        {
+            "id": 203,
+            "width": 2048,
+            "height": 1536,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20180603_FIRE_rm-w-mobo-c/1528059006_+01680.jpg"
+        },
+        {
+            "id": 204,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200705_FIRE_bm-w-mobo-c/1593980919_-02340.jpg"
+        },
+        {
+            "id": 205,
+            "width": 3072,
+            "height": 2048,
+            "file_name": "/home/jyjang/research/data/mnt/open_dataset/HPWREN-FIgLib-Data/20200828_BorderFire_om-w-mobo-c/1598627201_-02120.jpg"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 2,
+            "bbox": [
+                30,
+                266,
+                933,
+                1158
+            ],
+            "area": 1052251,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 3,
+            "bbox": [
+                342,
+                1099,
+                152,
+                89
+            ],
+            "area": 13515,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 7,
+            "bbox": [
+                1532,
+                668,
+                305,
+                58
+            ],
+            "area": 16644,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 12,
+            "bbox": [
+                1516,
+                1108,
+                418,
+                50
+            ],
+            "area": 19296,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 14,
+            "bbox": [
+                1391,
+                770,
+                47,
+                14
+            ],
+            "area": 644,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 14,
+            "bbox": [
+                827,
+                761,
+                169,
+                31
+            ],
+            "area": 4920,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": 19,
+            "bbox": [
+                2003,
+                1075,
+                121,
+                54
+            ],
+            "area": 6032,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": 25,
+            "bbox": [
+                2393,
+                959,
+                105,
+                65
+            ],
+            "area": 6848,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": 30,
+            "bbox": [
+                1529,
+                709,
+                72,
+                15
+            ],
+            "area": 1125,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": 33,
+            "bbox": [
+                1281,
+                721,
+                33,
+                15
+            ],
+            "area": 480,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": 36,
+            "bbox": [
+                1545,
+                368,
+                152,
+                257
+            ],
+            "area": 40851,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": 37,
+            "bbox": [
+                1445,
+                1094,
+                56,
+                49
+            ],
+            "area": 2793,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": 38,
+            "bbox": [
+                2449,
+                974,
+                60,
+                57
+            ],
+            "area": 3540,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": 41,
+            "bbox": [
+                1681,
+                1165,
+                26,
+                17
+            ],
+            "area": 425,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": 41,
+            "bbox": [
+                1738,
+                1154,
+                85,
+                46
+            ],
+            "area": 3690,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": 41,
+            "bbox": [
+                1273,
+                1102,
+                32,
+                21
+            ],
+            "area": 672,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": 42,
+            "bbox": [
+                336,
+                1106,
+                196,
+                67
+            ],
+            "area": 13134,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": 43,
+            "bbox": [
+                1185,
+                886,
+                37,
+                28
+            ],
+            "area": 1026,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": 47,
+            "bbox": [
+                1648,
+                785,
+                151,
+                117
+            ],
+            "area": 16272,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": 50,
+            "bbox": [
+                670,
+                721,
+                44,
+                10
+            ],
+            "area": 460,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": 51,
+            "bbox": [
+                541,
+                874,
+                22,
+                17
+            ],
+            "area": 357,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": 51,
+            "bbox": [
+                1050,
+                851,
+                62,
+                19
+            ],
+            "area": 1197,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": 52,
+            "bbox": [
+                2303,
+                1125,
+                66,
+                40
+            ],
+            "area": 2560,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": 53,
+            "bbox": [
+                1706,
+                1019,
+                156,
+                62
+            ],
+            "area": 9516,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": 55,
+            "bbox": [
+                416,
+                728,
+                42,
+                56
+            ],
+            "area": 2436,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": 57,
+            "bbox": [
+                65,
+                599,
+                158,
+                74
+            ],
+            "area": 12084,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": 59,
+            "bbox": [
+                938,
+                740,
+                59,
+                37
+            ],
+            "area": 2280,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": 60,
+            "bbox": [
+                743,
+                499,
+                22,
+                9
+            ],
+            "area": 189,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 30,
+            "image_id": 60,
+            "bbox": [
+                1247,
+                484,
+                208,
+                30
+            ],
+            "area": 5916,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 31,
+            "image_id": 60,
+            "bbox": [
+                1383,
+                464,
+                182,
+                168
+            ],
+            "area": 31374,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 32,
+            "image_id": 61,
+            "bbox": [
+                2730,
+                1021,
+                91,
+                90
+            ],
+            "area": 8835,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 33,
+            "image_id": 62,
+            "bbox": [
+                1566,
+                891,
+                282,
+                61
+            ],
+            "area": 17536,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 34,
+            "image_id": 66,
+            "bbox": [
+                1083,
+                812,
+                134,
+                38
+            ],
+            "area": 4847,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 35,
+            "image_id": 68,
+            "bbox": [
+                948,
+                804,
+                81,
+                35
+            ],
+            "area": 2686,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 36,
+            "image_id": 69,
+            "bbox": [
+                140,
+                667,
+                428,
+                88
+            ],
+            "area": 40500,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 37,
+            "image_id": 70,
+            "bbox": [
+                734,
+                497,
+                29,
+                12
+            ],
+            "area": 360,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 38,
+            "image_id": 70,
+            "bbox": [
+                1219,
+                488,
+                268,
+                23
+            ],
+            "area": 5808,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 39,
+            "image_id": 71,
+            "bbox": [
+                318,
+                1053,
+                280,
+                106
+            ],
+            "area": 30996,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 40,
+            "image_id": 73,
+            "bbox": [
+                2469,
+                1006,
+                17,
+                29
+            ],
+            "area": 493,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 41,
+            "image_id": 74,
+            "bbox": [
+                246,
+                1046,
+                124,
+                96
+            ],
+            "area": 11346,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 42,
+            "image_id": 77,
+            "bbox": [
+                1349,
+                1016,
+                224,
+                62
+            ],
+            "area": 14040,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 43,
+            "image_id": 79,
+            "bbox": [
+                1564,
+                706,
+                393,
+                198
+            ],
+            "area": 79194,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 44,
+            "image_id": 80,
+            "bbox": [
+                1519,
+                667,
+                473,
+                57
+            ],
+            "area": 27240,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 45,
+            "image_id": 81,
+            "bbox": [
+                2745,
+                1048,
+                64,
+                75
+            ],
+            "area": 4774,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 46,
+            "image_id": 84,
+            "bbox": [
+                779,
+                688,
+                366,
+                361
+            ],
+            "area": 125668,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 47,
+            "image_id": 92,
+            "bbox": [
+                1183,
+                531,
+                243,
+                245
+            ],
+            "area": 62244,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 48,
+            "image_id": 96,
+            "bbox": [
+                28,
+                879,
+                227,
+                101
+            ],
+            "area": 23230,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 49,
+            "image_id": 97,
+            "bbox": [
+                1779,
+                720,
+                71,
+                57
+            ],
+            "area": 3960,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 50,
+            "image_id": 99,
+            "bbox": [
+                1315,
+                834,
+                35,
+                45
+            ],
+            "area": 1530,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 51,
+            "image_id": 103,
+            "bbox": [
+                1728,
+                503,
+                100,
+                131
+            ],
+            "area": 12573,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 52,
+            "image_id": 104,
+            "bbox": [
+                1845,
+                802,
+                28,
+                14
+            ],
+            "area": 392,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 53,
+            "image_id": 106,
+            "bbox": [
+                134,
+                853,
+                210,
+                80
+            ],
+            "area": 16432,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 54,
+            "image_id": 106,
+            "bbox": [
+                626,
+                748,
+                142,
+                83
+            ],
+            "area": 11480,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 55,
+            "image_id": 109,
+            "bbox": [
+                253,
+                1068,
+                321,
+                114
+            ],
+            "area": 34771,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 56,
+            "image_id": 117,
+            "bbox": [
+                2732,
+                828,
+                73,
+                41
+            ],
+            "area": 3040,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 57,
+            "image_id": 119,
+            "bbox": [
+                860,
+                981,
+                117,
+                80
+            ],
+            "area": 9164,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 58,
+            "image_id": 120,
+            "bbox": [
+                892,
+                1009,
+                258,
+                83
+            ],
+            "area": 20331,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 59,
+            "image_id": 122,
+            "bbox": [
+                2548,
+                1031,
+                248,
+                96
+            ],
+            "area": 23529,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 60,
+            "image_id": 123,
+            "bbox": [
+                1261,
+                917,
+                183,
+                126
+            ],
+            "area": 24448,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 61,
+            "image_id": 125,
+            "bbox": [
+                958,
+                725,
+                34,
+                16
+            ],
+            "area": 528,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 62,
+            "image_id": 127,
+            "bbox": [
+                2688,
+                979,
+                55,
+                60
+            ],
+            "area": 3360,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 63,
+            "image_id": 128,
+            "bbox": [
+                843,
+                748,
+                195,
+                44
+            ],
+            "area": 8358,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 64,
+            "image_id": 128,
+            "bbox": [
+                1339,
+                721,
+                280,
+                114
+            ],
+            "area": 30736,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 65,
+            "image_id": 133,
+            "bbox": [
+                1081,
+                1045,
+                72,
+                43
+            ],
+            "area": 3285,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 66,
+            "image_id": 134,
+            "bbox": [
+                1419,
+                612,
+                25,
+                19
+            ],
+            "area": 456,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 67,
+            "image_id": 136,
+            "bbox": [
+                502,
+                504,
+                44,
+                15
+            ],
+            "area": 630,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 68,
+            "image_id": 136,
+            "bbox": [
+                709,
+                495,
+                45,
+                19
+            ],
+            "area": 920,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 69,
+            "image_id": 136,
+            "bbox": [
+                1203,
+                483,
+                81,
+                28
+            ],
+            "area": 2295,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 70,
+            "image_id": 136,
+            "bbox": [
+                1380,
+                452,
+                228,
+                189
+            ],
+            "area": 41958,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 71,
+            "image_id": 137,
+            "bbox": [
+                2640,
+                1008,
+                55,
+                46
+            ],
+            "area": 2565,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 72,
+            "image_id": 138,
+            "bbox": [
+                91,
+                659,
+                34,
+                15
+            ],
+            "area": 510,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 73,
+            "image_id": 140,
+            "bbox": [
+                2770,
+                929,
+                144,
+                56
+            ],
+            "area": 7884,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 74,
+            "image_id": 141,
+            "bbox": [
+                1879,
+                1054,
+                233,
+                67
+            ],
+            "area": 16870,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 75,
+            "image_id": 144,
+            "bbox": [
+                704,
+                979,
+                121,
+                63
+            ],
+            "area": 7854,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 76,
+            "image_id": 145,
+            "bbox": [
+                1439,
+                751,
+                414,
+                49
+            ],
+            "area": 19536,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 77,
+            "image_id": 146,
+            "bbox": [
+                726,
+                495,
+                34,
+                13
+            ],
+            "area": 429,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 78,
+            "image_id": 146,
+            "bbox": [
+                1230,
+                483,
+                243,
+                28
+            ],
+            "area": 7337,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 79,
+            "image_id": 147,
+            "bbox": [
+                1339,
+                981,
+                139,
+                107
+            ],
+            "area": 14280,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 80,
+            "image_id": 152,
+            "bbox": [
+                1558,
+                721,
+                117,
+                16
+            ],
+            "area": 1888,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 81,
+            "image_id": 156,
+            "bbox": [
+                1606,
+                774,
+                40,
+                34
+            ],
+            "area": 1365,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 82,
+            "image_id": 158,
+            "bbox": [
+                1560,
+                724,
+                115,
+                170
+            ],
+            "area": 19278,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 83,
+            "image_id": 159,
+            "bbox": [
+                1381,
+                811,
+                12,
+                18
+            ],
+            "area": 216,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 84,
+            "image_id": 161,
+            "bbox": [
+                2538,
+                877,
+                48,
+                61
+            ],
+            "area": 2944,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 85,
+            "image_id": 162,
+            "bbox": [
+                802,
+                1121,
+                61,
+                16
+            ],
+            "area": 992,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 86,
+            "image_id": 163,
+            "bbox": [
+                1420,
+                1117,
+                26,
+                30
+            ],
+            "area": 754,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 87,
+            "image_id": 166,
+            "bbox": [
+                2963,
+                923,
+                100,
+                135
+            ],
+            "area": 14178,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 88,
+            "image_id": 168,
+            "bbox": [
+                1640,
+                736,
+                202,
+                40
+            ],
+            "area": 7878,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 89,
+            "image_id": 172,
+            "bbox": [
+                1327,
+                910,
+                693,
+                172
+            ],
+            "area": 119188,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 90,
+            "image_id": 173,
+            "bbox": [
+                1144,
+                981,
+                484,
+                101
+            ],
+            "area": 48048,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 91,
+            "image_id": 174,
+            "bbox": [
+                821,
+                436,
+                243,
+                284
+            ],
+            "area": 71599,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 92,
+            "image_id": 174,
+            "bbox": [
+                815,
+                204,
+                352,
+                197
+            ],
+            "area": 75348,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 93,
+            "image_id": 176,
+            "bbox": [
+                1608,
+                827,
+                48,
+                25
+            ],
+            "area": 1300,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 94,
+            "image_id": 177,
+            "bbox": [
+                1595,
+                1093,
+                132,
+                43
+            ],
+            "area": 5544,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 95,
+            "image_id": 178,
+            "bbox": [
+                65,
+                762,
+                96,
+                56
+            ],
+            "area": 5544,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 96,
+            "image_id": 179,
+            "bbox": [
+                1418,
+                801,
+                324,
+                97
+            ],
+            "area": 29388,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 97,
+            "image_id": 182,
+            "bbox": [
+                1376,
+                610,
+                40,
+                22
+            ],
+            "area": 861,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 98,
+            "image_id": 182,
+            "bbox": [
+                1236,
+                484,
+                312,
+                26
+            ],
+            "area": 8694,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 99,
+            "image_id": 183,
+            "bbox": [
+                1699,
+                1110,
+                26,
+                19
+            ],
+            "area": 500,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 100,
+            "image_id": 184,
+            "bbox": [
+                1679,
+                1162,
+                53,
+                57
+            ],
+            "area": 2915,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 101,
+            "image_id": 184,
+            "bbox": [
+                431,
+                1154,
+                521,
+                136
+            ],
+            "area": 74217,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 102,
+            "image_id": 187,
+            "bbox": [
+                2232,
+                1038,
+                23,
+                27
+            ],
+            "area": 621,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 103,
+            "image_id": 188,
+            "bbox": [
+                624,
+                663,
+                47,
+                50
+            ],
+            "area": 2205,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 104,
+            "image_id": 189,
+            "bbox": [
+                768,
+                1001,
+                79,
+                46
+            ],
+            "area": 3542,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 105,
+            "image_id": 190,
+            "bbox": [
+                763,
+                778,
+                142,
+                127
+            ],
+            "area": 17780,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 106,
+            "image_id": 192,
+            "bbox": [
+                1592,
+                627,
+                244,
+                171
+            ],
+            "area": 41583,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 107,
+            "image_id": 194,
+            "bbox": [
+                2700,
+                1027,
+                336,
+                83
+            ],
+            "area": 29070,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 108,
+            "image_id": 199,
+            "bbox": [
+                1040,
+                814,
+                212,
+                123
+            ],
+            "area": 26500,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 109,
+            "image_id": 200,
+            "bbox": [
+                1505,
+                1003,
+                93,
+                97
+            ],
+            "area": 9894,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 110,
+            "image_id": 201,
+            "bbox": [
+                1913,
+                802,
+                34,
+                17
+            ],
+            "area": 578,
+            "category_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "id": 111,
+            "image_id": 203,
+            "bbox": [
+                1838,
+                750,
+                73,
+                32
+            ],
+            "area": 2240,
+            "category_id": 0,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "WildfireDataset",
+            "id": 0,
+            "name": "smoke"
+        }
+    ]
+}
