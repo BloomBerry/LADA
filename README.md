@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains supplementary materials and code related to the paper titled "[LADA: Semi-Supervised Domain Adaptation for Object Detection](https://arxiv.org/submit/5511253/view)," which presents a new suggested labels for opensource hpwren dataset.
+This repository contains supplementary materials and code related to the paper titled "[LADA: Semi-Supervised Domain Adaptation for Object Detection](https://arxiv.org/pdf/2404.01842.pdf)," which presents a new suggested labels for opensource hpwren dataset.
 
 ## Abstract
 
